@@ -1,0 +1,542 @@
+[
+  {
+    "foodname_sfwr": "Apples (1 kg)",
+    "foodcategory_sfwr": "Fruit",
+    "calories_sfwr": 52,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 9,
+    "foodimage_sfwr": "foods/demo-catalog/01-apples-1-kg.jpg",
+    "photo_credit": {
+      "title": "Red apple on a plate 2017 A.jpg",
+      "author": "Fructibus",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Red%20apple%20on%20a%20plate%202017%20A.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Red_apple_on_a_plate_2017_A.jpg",
+      "image_path": "foods/demo-catalog/01-apples-1-kg.jpg"
+    },
+    "fooddescription_sfwr": "Crisp, juicy apples with a refreshing balance of sweetness and gentle tartness. Enjoy them fresh or sliced into breakfast and snacks."
+  },
+  {
+    "foodname_sfwr": "Bananas (1 kg)",
+    "foodcategory_sfwr": "Fruit",
+    "calories_sfwr": 89,
+    "foodquantity_sfwr": 5,
+    "expiry_days": 7,
+    "foodimage_sfwr": "foods/demo-catalog/02-bananas-1-kg.jpg",
+    "photo_credit": {
+      "title": "Thai fruit 220215 Bananas กล้วยน้ำว้า 001.jpg",
+      "author": "Mattis",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Thai_fruit_220215_Bananas_%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B9%89%E0%B8%B2_001.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Thai_fruit_220215_Bananas_%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%A7%E0%B9%89%E0%B8%B2_001.jpg",
+      "image_path": "foods/demo-catalog/02-bananas-1-kg.jpg"
+    },
+    "fooddescription_sfwr": "Soft, naturally sweet bananas with a creamy texture. They are easy to eat as a snack or blend into smoothies."
+  },
+  {
+    "foodname_sfwr": "Oranges (1 kg)",
+    "foodcategory_sfwr": "Fruit",
+    "calories_sfwr": 47,
+    "foodquantity_sfwr": 5,
+    "expiry_days": 9,
+    "foodimage_sfwr": "foods/demo-catalog/03-oranges-1-kg.jpg",
+    "photo_credit": {
+      "title": "Orange -- 2022 -- 9711.jpg",
+      "author": "Dietmar Rabich",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Orange_--_2022_--_9711.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Orange_--_2022_--_9711.jpg",
+      "image_path": "foods/demo-catalog/03-oranges-1-kg.jpg"
+    },
+    "fooddescription_sfwr": "Bright, juicy oranges with a sweet citrus taste and a refreshing tang. Peel for a snack or squeeze for fresh juice."
+  },
+  {
+    "foodname_sfwr": "Strawberries (500 g)",
+    "foodcategory_sfwr": "Fruit",
+    "calories_sfwr": 32,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 5,
+    "foodimage_sfwr": "foods/demo-catalog/04-strawberries-500-g.jpg",
+    "photo_credit": {
+      "title": "Organic-strawberries Canada.jpg",
+      "author": "Marc-Lautenbacher",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Organic-strawberries_Canada.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Organic-strawberries_Canada.jpg",
+      "image_path": "foods/demo-catalog/04-strawberries-500-g.jpg"
+    },
+    "fooddescription_sfwr": "Fragrant strawberries with a tender bite and a sweet, lightly tangy flavour. Lovely on their own, with yogurt, or over cereal."
+  },
+  {
+    "foodname_sfwr": "Grapes (500 g)",
+    "foodcategory_sfwr": "Fruit",
+    "calories_sfwr": 69,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 7,
+    "foodimage_sfwr": "foods/demo-catalog/05-grapes-500-g.jpg",
+    "photo_credit": {
+      "title": "Grapes, Dry Creek Valley-7705.jpg",
+      "author": "Frank Schulenburg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Grapes%2C_Dry_Creek_Valley-7705.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Grapes,_Dry_Creek_Valley-7705.jpg",
+      "image_path": "foods/demo-catalog/05-grapes-500-g.jpg"
+    },
+    "fooddescription_sfwr": "Plump, juicy grapes with a crisp skin and sweet fruit inside. A convenient snack served chilled or at room temperature."
+  },
+  {
+    "foodname_sfwr": "Blueberries (250 g)",
+    "foodcategory_sfwr": "Fruit",
+    "calories_sfwr": 57,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 6,
+    "foodimage_sfwr": "foods/demo-catalog/06-blueberries-250-g.jpg",
+    "photo_credit": {
+      "title": "Picking blueberries b.JPG",
+      "author": "ChristianSW",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Picking_blueberries_b.JPG",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Picking_blueberries_b.JPG",
+      "image_path": "foods/demo-catalog/06-blueberries-250-g.jpg"
+    },
+    "fooddescription_sfwr": "Small, tender berries with a mild sweetness and subtle tartness. Add them to porridge, yogurt, or a bowl of fruit."
+  },
+  {
+    "foodname_sfwr": "Pears (1 kg)",
+    "foodcategory_sfwr": "Fruit",
+    "calories_sfwr": 57,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 9,
+    "foodimage_sfwr": "foods/demo-catalog/07-pears-1-kg.jpg",
+    "photo_credit": {
+      "title": "Pear fruit hanging on a pear plant.jpg",
+      "author": "Treysam",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pear%20fruit%20hanging%20on%20a%20pear%20plant.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Pear_fruit_hanging_on_a_pear_plant.jpg",
+      "image_path": "foods/demo-catalog/07-pears-1-kg.jpg"
+    },
+    "fooddescription_sfwr": "Juicy pears with a delicate sweetness and a soft, fragrant flavour. Enjoy them fresh or pair with breakfast and desserts."
+  },
+  {
+    "foodname_sfwr": "Avocados (2 pieces)",
+    "foodcategory_sfwr": "Fruit",
+    "calories_sfwr": 160,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 6,
+    "foodimage_sfwr": "foods/demo-catalog/08-avocados-2-pieces.jpg",
+    "photo_credit": {
+      "title": "Avocado Hass - single and halved.jpg",
+      "author": "Ivar Leidus",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Avocado_Hass_-_single_and_halved.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Avocado_Hass_-_single_and_halved.jpg",
+      "image_path": "foods/demo-catalog/08-avocados-2-pieces.jpg"
+    },
+    "fooddescription_sfwr": "Creamy avocados with a mild, buttery character. Mash onto toast, slice into salads, or add to sandwiches."
+  },
+  {
+    "foodname_sfwr": "Tomatoes (1 kg)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 18,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 7,
+    "foodimage_sfwr": "foods/demo-catalog/09-tomatoes-1-kg.jpg",
+    "photo_credit": {
+      "title": "Tomatoes 2026 G1.jpg",
+      "author": "George Chernilevsky",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tomatoes_2026_G1.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Tomatoes_2026_G1.jpg",
+      "image_path": "foods/demo-catalog/09-tomatoes-1-kg.jpg"
+    },
+    "fooddescription_sfwr": "Ripe tomatoes with a juicy centre and a fresh, gently sweet taste. Use them in salads, sandwiches, or cooked dishes."
+  },
+  {
+    "foodname_sfwr": "Carrots (1 kg)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 41,
+    "foodquantity_sfwr": 6,
+    "expiry_days": 12,
+    "foodimage_sfwr": "foods/demo-catalog/10-carrots-1-kg.jpg",
+    "photo_credit": {
+      "title": "Preparing and slicing carrots.jpg",
+      "author": "W.carter",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Preparing%20and%20slicing%20carrots.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Preparing_and_slicing_carrots.jpg",
+      "image_path": "foods/demo-catalog/10-carrots-1-kg.jpg"
+    },
+    "fooddescription_sfwr": "Crunchy carrots with a natural sweetness and clean, earthy flavour. Enjoy raw, roast them, or add to soups and stews."
+  },
+  {
+    "foodname_sfwr": "Broccoli (500 g)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 34,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 5,
+    "foodimage_sfwr": "foods/demo-catalog/11-broccoli-500-g.jpg",
+    "photo_credit": {
+      "title": "Liat Portal for Foodie Disorder - Fresh Broccoli.jpg",
+      "author": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Liat%20Portal%20for%20Foodie%20Disorder%20-%20Fresh%20Broccoli.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Fresh_Broccoli.jpg",
+      "image_path": "foods/demo-catalog/11-broccoli-500-g.jpg"
+    },
+    "fooddescription_sfwr": "Fresh broccoli with compact florets and a mild, earthy taste. Steam, roast, or stir-fry until tender while keeping a little bite."
+  },
+  {
+    "foodname_sfwr": "Bell peppers (3 pieces)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 31,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 8,
+    "foodimage_sfwr": "foods/demo-catalog/12-bell-peppers-3-pieces.jpg",
+    "photo_credit": {
+      "title": "Bell peppers 2020 G2.jpg",
+      "author": "George Chernilevsky",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bell_peppers_2020_G2.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Bell_peppers_2020_G2.jpg",
+      "image_path": "foods/demo-catalog/12-bell-peppers-3-pieces.jpg"
+    },
+    "fooddescription_sfwr": "Colourful bell peppers with crisp flesh and a sweet, refreshing flavour. Slice them for snacks or add to salads and warm meals."
+  },
+  {
+    "foodname_sfwr": "Cucumbers (2 pieces)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 15,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 7,
+    "foodimage_sfwr": "foods/demo-catalog/13-cucumbers-2-pieces.jpg",
+    "photo_credit": {
+      "title": "Ryerson Market cucumbers on sale.jpg",
+      "author": "Jason Zhang",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ryerson_Market_cucumbers_on_sale.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Ryerson_Market_cucumbers_on_sale.jpg",
+      "image_path": "foods/demo-catalog/13-cucumbers-2-pieces.jpg"
+    },
+    "fooddescription_sfwr": "Cool, crisp cucumbers with a light and refreshing taste. They make an easy addition to salads, sandwiches, or snack plates."
+  },
+  {
+    "foodname_sfwr": "Potatoes (2 kg)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 77,
+    "foodquantity_sfwr": 5,
+    "expiry_days": 14,
+    "foodimage_sfwr": "foods/demo-catalog/14-potatoes-2-kg.jpg",
+    "photo_credit": {
+      "title": "Food-healthy-vegetables-potatoes (23958160949).jpg",
+      "author": "www.Pixel.la Free Stock Photos",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Food-healthy-vegetables-potatoes_(23958160949).jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Food-healthy-vegetables-potatoes_(23958160949).jpg",
+      "image_path": "foods/demo-catalog/14-potatoes-2-kg.jpg"
+    },
+    "fooddescription_sfwr": "Versatile potatoes with a mild, earthy flavour and a satisfying texture. Roast, boil, mash, or use them in soups and stews."
+  },
+  {
+    "foodname_sfwr": "Yellow onions (1 kg)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 40,
+    "foodquantity_sfwr": 5,
+    "expiry_days": 14,
+    "foodimage_sfwr": "foods/demo-catalog/15-yellow-onions-1-kg.jpg",
+    "photo_credit": {
+      "title": "Liat Portal for Foodie Disorder - Onions and Garlic from San Francisco Farmers Market.jpg",
+      "author": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Liat%20Portal%20for%20Foodie%20Disorder%20-%20Onions%20and%20Garlic%20from%20San%20Francisco%20Farmers%20Market.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Onions_and_Garlic_from_San_Francisco_Farmers_Market.jpg",
+      "image_path": "foods/demo-catalog/15-yellow-onions-1-kg.jpg"
+    },
+    "fooddescription_sfwr": "A kitchen staple with a savoury aroma and gently sweet flavour when cooked. Use as a base for sauces, soups, and many warm dishes."
+  },
+  {
+    "foodname_sfwr": "Zucchini (1 kg)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 17,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 7,
+    "foodimage_sfwr": "foods/demo-catalog/16-zucchini-1-kg.jpg",
+    "photo_credit": {
+      "title": "Female human being holding a homegrown zucchini in Quesnel, British Columbia (DSCF5368).jpg",
+      "author": "Trougnouf (Benoit Brummer)",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Female_human_being_holding_a_homegrown_zucchini_in_Quesnel%2C_British_Columbia_(DSCF5368).jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Female_human_being_holding_a_homegrown_zucchini_in_Quesnel,_British_Columbia_(DSCF5368).jpg",
+      "image_path": "foods/demo-catalog/16-zucchini-1-kg.jpg"
+    },
+    "fooddescription_sfwr": "Tender zucchini with a mild flavour and delicate texture. Slice for grilling, sautéing, roasting, or adding to pasta."
+  },
+  {
+    "foodname_sfwr": "Fresh spinach (300 g)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 23,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 4,
+    "foodimage_sfwr": "foods/demo-catalog/17-fresh-spinach-300-g.jpg",
+    "photo_credit": {
+      "title": "पालकाची पाने Spinach Leaves.jpg",
+      "author": "MGB CEE",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A4%BE%E0%A4%9A%E0%A5%80_%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%87_Spinach_Leaves.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:%E0%A4%AA%E0%A4%BE%E0%A4%B2%E0%A4%95%E0%A4%BE%E0%A4%9A%E0%A5%80_%E0%A4%AA%E0%A4%BE%E0%A4%A8%E0%A5%87_Spinach_Leaves.jpg",
+      "image_path": "foods/demo-catalog/17-fresh-spinach-300-g.jpg"
+    },
+    "fooddescription_sfwr": "Tender spinach leaves with a fresh, mild, earthy taste. Use them raw in salads or wilt briefly into warm dishes."
+  },
+  {
+    "foodname_sfwr": "Button mushrooms (500 g)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 22,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 5,
+    "foodimage_sfwr": "foods/demo-catalog/18-button-mushrooms-500-g.jpg",
+    "photo_credit": {
+      "title": "Button mushroom in Yuen Long.jpg",
+      "author": "Peachyeung316",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Button_mushroom_in_Yuen_Long.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Button_mushroom_in_Yuen_Long.jpg",
+      "image_path": "foods/demo-catalog/18-button-mushrooms-500-g.jpg"
+    },
+    "fooddescription_sfwr": "Mild, savoury mushrooms with a soft texture and earthy aroma. Slice into omelettes, pasta, sauces, or pan-fried sides."
+  },
+  {
+    "foodname_sfwr": "Cauliflower (1 head)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 25,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 6,
+    "foodimage_sfwr": "foods/demo-catalog/19-cauliflower-1-head.jpg",
+    "photo_credit": {
+      "title": "Chou-fleur 02.jpg",
+      "author": "Coyau",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chou-fleur%2002.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Chou-fleur_02.jpg",
+      "image_path": "foods/demo-catalog/19-cauliflower-1-head.jpg"
+    },
+    "fooddescription_sfwr": "A firm cauliflower head with a mild, slightly nutty taste. Roast the florets, steam them, or add them to curries and soups."
+  },
+  {
+    "foodname_sfwr": "Sweet corn (4 cobs)",
+    "foodcategory_sfwr": "Vegetables",
+    "calories_sfwr": 86,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 7,
+    "foodimage_sfwr": "foods/demo-catalog/20-sweet-corn-4-cobs.jpg",
+    "photo_credit": {
+      "title": "Liat Portal for Foodie Disorder - Fresh Corn on the Cob.jpg",
+      "author": "HaJunkiyada",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Liat%20Portal%20for%20Foodie%20Disorder%20-%20Fresh%20Corn%20on%20the%20Cob.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Liat_Portal_for_Foodie_Disorder_-_Fresh_Corn_on_the_Cob.jpg",
+      "image_path": "foods/demo-catalog/20-sweet-corn-4-cobs.jpg"
+    },
+    "fooddescription_sfwr": "Sweet corn cobs with juicy kernels and a gentle natural sweetness. Boil, grill, or cut the kernels into salads and warm dishes."
+  },
+  {
+    "foodname_sfwr": "Whole wheat bread (loaf)",
+    "foodcategory_sfwr": "Bakery",
+    "calories_sfwr": 247,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 4,
+    "foodimage_sfwr": "foods/demo-catalog/21-whole-wheat-bread-loaf.jpg",
+    "photo_credit": {
+      "title": "Whole wheat bread1.jpg",
+      "author": "GOLANYASSAF",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Whole%20wheat%20bread1.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Whole_wheat_bread1.jpg",
+      "image_path": "foods/demo-catalog/21-whole-wheat-bread-loaf.jpg"
+    },
+    "fooddescription_sfwr": "A hearty loaf with a gently nutty flavour and a satisfying, wholesome crumb. Great for toast, sandwiches, or a simple slice with soup."
+  },
+  {
+    "foodname_sfwr": "Baguette (1 loaf)",
+    "foodcategory_sfwr": "Bakery",
+    "calories_sfwr": 274,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 3,
+    "foodimage_sfwr": "foods/demo-catalog/22-baguette-1-loaf.jpg",
+    "photo_credit": {
+      "title": "Baguette de pain, WikiCheese Lausanne.jpg",
+      "author": "Yann Forget",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Baguette%20de%20pain%2C%20WikiCheese%20Lausanne.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Baguette_de_pain,_WikiCheese_Lausanne.jpg",
+      "image_path": "foods/demo-catalog/22-baguette-1-loaf.jpg"
+    },
+    "fooddescription_sfwr": "A long, crusty baguette with a light, airy centre. Serve with a meal, make sandwiches, or refresh briefly in the oven."
+  },
+  {
+    "foodname_sfwr": "Croissants (4 pieces)",
+    "foodcategory_sfwr": "Bakery",
+    "calories_sfwr": 406,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 3,
+    "foodimage_sfwr": "foods/demo-catalog/23-croissants-4-pieces.jpg",
+    "photo_credit": {
+      "title": "Croissant, whole.jpg",
+      "author": "SKopp",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Croissant%2C%20whole.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Croissant,_whole.jpg",
+      "image_path": "foods/demo-catalog/23-croissants-4-pieces.jpg"
+    },
+    "fooddescription_sfwr": "Buttery, flaky pastries with crisp layered edges and a soft centre. Enjoy at breakfast or warm briefly before serving."
+  },
+  {
+    "foodname_sfwr": "Bagels (4 pieces)",
+    "foodcategory_sfwr": "Bakery",
+    "calories_sfwr": 250,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 4,
+    "foodimage_sfwr": "foods/demo-catalog/24-bagels-4-pieces.jpg",
+    "photo_credit": {
+      "title": "Bagel with sesame.jpg",
+      "author": "Shisma",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Bagel%20with%20sesame.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Bagel_with_sesame.jpg",
+      "image_path": "foods/demo-catalog/24-bagels-4-pieces.jpg"
+    },
+    "fooddescription_sfwr": "Chewy, round bagels with a dense, satisfying crumb. Split and toast them, then add your favourite sweet or savoury topping."
+  },
+  {
+    "foodname_sfwr": "Penne pasta (500 g)",
+    "foodcategory_sfwr": "Prepared foods",
+    "calories_sfwr": 131,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 14,
+    "foodimage_sfwr": "foods/demo-catalog/25-penne-pasta-500-g.jpg",
+    "photo_credit": {
+      "title": "Pasta Penne.jpg",
+      "author": "Mrudit161187",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pasta%20Penne.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Pasta_Penne.jpg",
+      "image_path": "foods/demo-catalog/25-penne-pasta-500-g.jpg"
+    },
+    "fooddescription_sfwr": "Penne pasta has short ridged tubes that hold sauces well. Cook until pleasantly firm, then pair with vegetables, tomato sauce, or cheese."
+  },
+  {
+    "foodname_sfwr": "Vegetable soup (1 L)",
+    "foodcategory_sfwr": "Prepared foods",
+    "calories_sfwr": 45,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 5,
+    "foodimage_sfwr": "foods/demo-catalog/26-vegetable-soup-1-l.jpg",
+    "photo_credit": {
+      "title": "DFC 3982 A steaming bowl of homemade vegetable soup garnished with chopped parsley served with a slice of rustic brown bread.jpg",
+      "author": "PattayaPatrol",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:DFC%203982%20A%20steaming%20bowl%20of%20homemade%20vegetable%20soup%20garnished%20with%20chopped%20parsley%20served%20with%20a%20slice%20of%20rustic%20brown%20bread.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:DFC_3982_A_steaming_bowl_of_homemade_vegetable_soup_garnished_with_chopped_parsley_served_with_a_slice_of_rustic_brown_bread.jpg",
+      "image_path": "foods/demo-catalog/26-vegetable-soup-1-l.jpg"
+    },
+    "fooddescription_sfwr": "A comforting vegetable soup with a savoury broth and tender vegetables. Warm gently for an easy lunch or light meal."
+  },
+  {
+    "foodname_sfwr": "Green salad (2 portions)",
+    "foodcategory_sfwr": "Prepared foods",
+    "calories_sfwr": 33,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 3,
+    "foodimage_sfwr": "foods/demo-catalog/27-green-salad-2-portions.jpg",
+    "photo_credit": {
+      "title": "Fresh salad with arugula, cabbage and tomato in a glass bowl.jpg",
+      "author": "Horacio Cambeiro",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fresh%20salad%20with%20arugula%2C%20cabbage%20and%20tomato%20in%20a%20glass%20bowl.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Fresh_salad_with_arugula,_cabbage_and_tomato_in_a_glass_bowl.jpg",
+      "image_path": "foods/demo-catalog/27-green-salad-2-portions.jpg"
+    },
+    "fooddescription_sfwr": "A fresh green salad with crisp leaves and a light, refreshing character. Serve chilled as a side or add your preferred dressing."
+  },
+  {
+    "foodname_sfwr": "Margherita pizza (2 portions)",
+    "foodcategory_sfwr": "Prepared foods",
+    "calories_sfwr": 266,
+    "foodquantity_sfwr": 3,
+    "expiry_days": 3,
+    "foodimage_sfwr": "foods/demo-catalog/28-margherita-pizza-2-portions.jpg",
+    "photo_credit": {
+      "title": "Margherita PIzza (Unsplash).jpg",
+      "author": "Thomas Schweighofer thomasschweighoferdotnet",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Margherita%20PIzza%20(Unsplash).jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Margherita_PIzza_(Unsplash).jpg",
+      "image_path": "foods/demo-catalog/28-margherita-pizza-2-portions.jpg"
+    },
+    "fooddescription_sfwr": "A classic pizza with a soft baked base, tomato, and melted cheese. Warm in the oven until the crust is crisp and the topping is hot."
+  },
+  {
+    "foodname_sfwr": "Cooked rice (1 kg)",
+    "foodcategory_sfwr": "Prepared foods",
+    "calories_sfwr": 130,
+    "foodquantity_sfwr": 4,
+    "expiry_days": 4,
+    "foodimage_sfwr": "foods/demo-catalog/29-cooked-rice-1-kg.jpg",
+    "photo_credit": {
+      "title": "Ceramic bowl full of white rice.jpg",
+      "author": "epSos.de",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Ceramic%20bowl%20full%20of%20white%20rice.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Ceramic_bowl_full_of_white_rice.jpg",
+      "image_path": "foods/demo-catalog/29-cooked-rice-1-kg.jpg"
+    },
+    "fooddescription_sfwr": "Plain cooked rice with a soft, fluffy texture and mild flavour. Reheat thoroughly and serve alongside vegetables, curry, or a stir-fry."
+  },
+  {
+    "foodname_sfwr": "Plain yogurt (500 g)",
+    "foodcategory_sfwr": "Dairy",
+    "calories_sfwr": 61,
+    "foodquantity_sfwr": 5,
+    "expiry_days": 8,
+    "foodimage_sfwr": "foods/demo-catalog/30-plain-yogurt-500-g.jpg",
+    "photo_credit": {
+      "title": "Yogurt in box.jpg",
+      "author": "SD hehua",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Yogurt%20in%20box.jpg",
+      "original_url": "https://commons.wikimedia.org/wiki/File:Yogurt_in_box.jpg",
+      "image_path": "foods/demo-catalog/30-plain-yogurt-500-g.jpg"
+    },
+    "fooddescription_sfwr": "Smooth plain yogurt with a cool, creamy texture and gentle tang. Enjoy on its own or add fruit, oats, or a little honey."
+  }
+]

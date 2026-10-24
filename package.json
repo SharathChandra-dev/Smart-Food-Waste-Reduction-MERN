@@ -1,0 +1,16 @@
+{
+  "name": "smart-food-waste-reducer-mern",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c green,cyan \"npm run dev --prefix server\" \"npm run dev --prefix client\"",
+    "build": "npm run build --prefix client",
+    "start": "npm start --prefix server",
+    "seed": "npm run seed --prefix server",
+    "format": "prettier --write \"client/src/**/*.{js,jsx,css}\" \"server/src/**/*.{js,json}\" \"*.json\" \"docs/**/*.md\" README.md",
+    "format:check": "prettier --check \"client/src/**/*.{js,jsx,css}\" \"server/src/**/*.{js,json}\" \"*.json\" \"docs/**/*.md\" README.md"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "prettier": "^3.9.10"
+  }
+}
