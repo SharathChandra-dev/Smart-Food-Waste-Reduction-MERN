@@ -182,7 +182,7 @@ export function HomePage() {
           </div>
           <div className="contact-detail">
             <MapPin size={18} />
-            SRH Campus Munich
+            Sendlinger Str. 7, 81547 Munich, Germany
           </div>
         </div>
         <form className="contact-card" onSubmit={contact}>
@@ -804,11 +804,20 @@ export function AdminDashboard() {
   }, []);
   if (!data && !error) return <Loading />;
   const s = data?.stats || {};
+  const hour = new Date().getHours();
+  const greeting =
+    hour < 5
+      ? 'Good evening'
+      : hour < 12
+        ? 'Good morning'
+        : hour < 17
+          ? 'Good afternoon'
+          : 'Good evening';
   return (
     <div>
       <PageTitle
         eyebrow="COMMUNITY OVERVIEW"
-        title="Good morning, admin."
+        title={`${greeting}, admin.`}
         description="Here’s a snapshot of what’s happening across FoodShare."
       />
       <Notice>{error}</Notice>
