@@ -186,7 +186,7 @@ function Shell() {
             <h3>Get in touch</h3>
             <a href="mailto:Sharath.workdev@gmail.com">Send us an email</a>
             <a href="https://maps.google.com/?q=SRH+Campus+Munich" target="_blank" rel="noreferrer">
-              SRH Campus Munich
+              Sendlinger Str. 7, 81547 Munich, Germany
             </a>
             <a href="tel:+4915510323692">+49 155 10323692</a>
           </div>
